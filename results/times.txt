@@ -1,0 +1,6 @@
+quad disc big: fw: 394.82, bw: 759.54, weight: 278.7, freq: 262.98, rows: 330.99
+lin reg big: fw: 253.72, bw: 454.84, weight: 182.09, freq: 190.18, rows: 231.18
+knn: fw: 1921.39, bw: 2427.06, weight: 1148, freq: 1149.5, rows: 1562.34
+lrk_lin_disc: fw: 270.22, bw: 476.44, weight: 181.02, freq: 179.43, rows: 207.58
+lrk_quad_disc: fw: 156.54, 'bw': 282.46, weight: 110.1, freq: 110.13, rows: 126.76
+lrk_knn: fw: 1014.55, bw: 1366.65, weight: 641.21, freq: 648.44, rows: 704.94
